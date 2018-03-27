@@ -67,17 +67,17 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 66;1;0;;Leandro;-;Coritiba;Cruzeiro;0;8;1;1;individual;foot;1;0;0;0;1;1;0
 67;1;0;;Ortega;-;Coritiba;Cruzeiro;0;8;1;1;rebound;foot;0;0;0;0;1;0;1
 68;1;0;;Willian;-;Cruzeiro;Coritiba;0;27;0;0;individual;foot;0;0;0;0;0;0;0
-69;1;0;;Giuliano;Bola–os;Gremio;Corinthians;22;7;0;0;collective;foot;0;0;1;0;1;0;0
+69;1;0;;Giuliano;Bola_os;Gremio;Corinthians;22;7;0;0;collective;foot;0;0;1;0;1;0;0
 70;1;0;;Felipe;Rodriguinho;Corinthians;Gremio;24;8;0;1;collective;head;0;0;1;0;0;0;0
 71;1;0;;Marquinhos Gabriel;-;Corinthians;Gremio;0;12;0;1;individual;foot;0;0;0;0;0;1;0
 72;1;0;;Andre;Romero;Corinthians;Gremio;23;4;0;1;collective;head;0;0;1;0;1;0;0
-73;1;0;;Luan;Bola–os;Gremio;Corinthians;26;15;0;0;collective;foot;0;0;0;0;0;0;0
+73;1;0;;Luan;Bola_os;Gremio;Corinthians;26;15;0;0;collective;foot;0;0;0;0;0;0;0
 74;1;0;;Marquinhos Gabriel;-;Corinthians;Gremio;0;8;0;1;individual;foot;1;0;0;0;1;0;0
 75;1;0;;Rodriguinho;-;Corinthians;Gremio;0;18;0;1;individual;foot;0;0;0;0;1;0;0
 76;1;0;;Fagner;Marquinhos Gabriel;Corinthians;Gremio;19;10;0;1;collective;foot;0;0;0;0;0;0;0
 77;1;0;;Elias;Andre;Corinthians;Gremio;22;9;0;1;collective;foot;0;0;1;0;1;0;0
 78;1;0;;Andre;Guilherme;Corinthians;Gremio;23;3;0;1;collective;foot;0;0;1;0;1;0;1
-79;1;0;;Bobo;Bola–os;Gremio;Corinthians;26;8;0;0;collective;foot;0;1;0;0;1;1;0
+79;1;0;;Bobo;Bola_os;Gremio;Corinthians;26;8;0;0;collective;foot;0;1;0;0;1;1;0
 80;1;0;;Luciano;Giovanni Augusto;Corinthians;Gremio;5;9;0;1;collective;foot;0;0;1;0;1;0;0
 81;1;0;;Bruno Henrique;Guilherme;Corinthians;Gremio;11;3;0;1;collective;foot;0;0;1;0;1;0;1
 82;1;0;;Ribamar;Fernandes;Botafogo;Sao Paulo;25;7;0;1;collective;foot;0;1;0;0;1;1;0
@@ -162,7 +162,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 161;2;0;;Cazares;Carlos Eduardo;Atletico MG;Atletico PR;27;2;-1;0;collective;foot;0;0;1;0;1;0;1
 162;2;1;;Cazares;-;Atletico MG;Atletico PR;0;8;-1;0;penalty;foot;0;0;0;0;1;0;1
 163;2;0;;Carlos Eduardo;-;Atletico MG;Atletico PR;0;9;0;0;individual;foot;0;0;0;0;1;1;1
-164;2;0;;Bola–os;Edilson;Gremio;Flamengo;28;9;0;1;collective;foot;0;1;0;0;1;0;0
+164;2;0;;Bola_os;Edilson;Gremio;Flamengo;28;9;0;1;collective;foot;0;1;0;0;1;0;0
 165;2;0;;Luan;-;Gremio;Flamengo;0;26;0;1;collective;foot;0;0;0;0;0;0;0
 166;2;0;;Gabriel;Everton;Flamengo;Gremio;21;7;0;0;indirect_fk;head;0;0;1;0;0;0;0
 167;2;0;;Leo Duarte;Rodinei;Flamengo;Gremio;27;8;0;0;indirect_fk;head;0;0;1;0;0;0;0
@@ -174,7 +174,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 173;2;1;;Fred;Luan;Gremio;Flamengo;22;8;0;1;corner;head;0;0;1;0;0;0;1
 174;2;0;;Gabriel;Guerrero;Flamengo;Gremio;18;9;-1;0;collective;foot;0;1;0;0;1;0;0
 175;2;0;;Everton;Luan;Gremio;Flamengo;22;4;1;1;corner;head;0;0;1;0;0;0;0
-176;2;0;;Luan;Bola–os;Gremio;Flamengo;23;17;1;1;collective;foot;0;0;0;0;0;0;0
+176;2;0;;Luan;Bola_os;Gremio;Flamengo;23;17;1;1;collective;foot;0;0;0;0;0;0;0
 177;2;0;;Pedro Rocha;Douglas;Gremio;Flamengo;27;4;1;1;collective;foot;1;1;0;1;1;0;1
 178;2;0;;Walace;-;Gremio;Flamengo;0;9;1;1;rebound;foot;0;0;0;0;1;0;0
 179;2;0;;Ramon;Marinho;Vitoria;Corinthians;23;5;0;1;collective;head;0;0;1;0;0;0;1
@@ -369,7 +369,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 368;4;1;;Keno;Arthur;Santa Cruz;Chapecoense;23;8;0;0;collective;head;0;0;1;1;0;0;1
 369;4;0;;Josimar;Cleber Santana;Chapecoense;Santa Cruz;21;2;-1;1;corner;head;0;0;1;0;0;0;0
 370;4;0;;Wallyson;Joao Paulo;Santa Cruz;Chapecoense;26;9;1;0;collective;foot;1;1;0;1;1;0;1
-371;4;0;;Dener Assunçao;Silvinho;Chapecoense;Santa Cruz;23;7;-1;1;collective;foot;1;0;1;1;1;0;1
+371;4;0;;Dener Assuncao;Silvinho;Chapecoense;Santa Cruz;23;7;-1;1;collective;foot;1;0;1;1;1;0;1
 372;4;0;;Josimar;Cleber Santana;Chapecoense;Santa Cruz;22;4;-1;1;indirect_fk;head;0;0;1;0;0;0;1
 373;4;1;;Contra;Silvinho;Chapecoense;Santa Cruz;23;3;-1;1;collective;head;0;0;1;0;0;0;1
 374;4;0;;Hyoran;Bruno Rangel;Chapecoense;Santa Cruz;7;6;0;1;collective;foot;0;0;1;1;1;0;1
@@ -642,7 +642,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 641;6;0;;Nikao;Vinicius;Atletico PR;Santa Cruz;28;9;1;1;collective;foot;0;1;0;1;1;0;1
 642;6;0;;Grafite;Arthur;Santa Cruz;Atletico PR;5;4;-1;0;collective;head;0;0;1;0;0;0;0
 643;6;0;;Silvinho;-;Chapecoense;Fluminense;0;17;0;1;individual;foot;1;0;0;0;0;0;1
-644;6;0;;Dener Assunçao;-;Chapecoense;Fluminense;0;28;0;1;individual;foot;0;0;0;0;0;0;0
+644;6;0;;Dener Assuncao;-;Chapecoense;Fluminense;0;28;0;1;individual;foot;0;0;0;0;0;0;0
 645;6;0;;Fred;-;Fluminense;Chapecoense;0;28;0;0;individual;foot;0;0;0;0;0;0;0
 646;6;0;;Jonathan;Cicero;Fluminense;Chapecoense;9;4;0;0;collective;foot;0;0;1;0;1;0;1
 647;6;0;;Richarlison;-;Fluminense;Chapecoense;0;7;0;0;individual;foot;0;0;0;0;1;0;1
@@ -891,7 +891,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 890;8;0;;Walter;Sidcley;Atletico PR;Ponte Preta;6;17;-2;0;collective;foot;1;0;1;0;0;0;1
 891;8;0;;Giovanny ;-;Atletico PR;Ponte Preta;0;7;-2;0;rebound;foot;0;0;0;0;1;0;0
 892;8;1;;Walter;Deivid;Atletico PR;Ponte Preta;26;19;-2;0;collective;foot;0;0;0;0;0;0;1
-893;8;0;;Gervasio Nu–ez;-;Botafogo;America;0;18;0;1;individual;foot;0;0;0;0;0;1;1
+893;8;0;;Gervasio Nu_ez;-;Botafogo;America;0;18;0;1;individual;foot;0;0;0;0;0;1;1
 894;8;1;;Sassa;-;Botafogo;America;0;8;0;1;penalty;foot;0;0;0;0;1;0;1
 895;8;1;;Sassa;Neilton;Botafogo;America;9;8;1;1;collective;foot;0;0;0;0;0;1;1
 896;8;1;;Sassa;-;Botafogo;America;0;8;2;1;penalty;foot;0;0;0;0;1;0;1
@@ -901,7 +901,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 900;8;0;;Neilton;-;Botafogo;America;0;19;2;1;individual;foot;1;0;0;1;0;0;0
 901;8;0;;Osman;Juninho;America;Botafogo;18;9;-2;0;collective;foot;1;0;0;0;1;0;1
 902;8;0;;Neilton;Fernandes;Botafogo;America;26;10;2;1;collective;foot;1;0;0;1;0;0;1
-903;8;0;;Gervasio Nu–ez;-;Botafogo;America;0;18;2;1;direct_fk;foot;0;0;0;0;1;0;1
+903;8;0;;Gervasio Nu_ez;-;Botafogo;America;0;18;2;1;direct_fk;foot;0;0;0;0;1;0;1
 904;8;0;;Borges;Matheusinho;America;Botafogo;10;9;-2;0;collective;foot;0;0;0;1;0;0;1
 905;8;0;;Ribamar;Luis Ricardo;Botafogo;America;22;8;2;1;collective;head;0;0;1;0;1;0;1
 906;8;0;;Neilton;-;Botafogo;America;0;13;2;1;individual;foot;1;0;0;0;0;0;0
@@ -1089,7 +1089,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 1088;9;0;;Fernandinho;Alan Patrick;Flamengo;Sao Paulo;21;7;0;1;corner;head;0;0;1;0;1;0;1
 1089;9;0;;Alan Patrick;Marcio Araujo;Flamengo;Sao Paulo;16;11;0;1;collective;foot;1;0;0;0;0;0;1
 1090;9;0;;Alan Patrick;-;Flamengo;Sao Paulo;0;8;0;1;penalty;foot;0;0;0;0;1;0;1
-1091;9;0;;Gervasio Nu–ez;Bruno Silva;Botafogo;Corinthians;28;9;0;0;indirect_fk;head;0;0;1;0;0;0;0
+1091;9;0;;Gervasio Nu_ez;Bruno Silva;Botafogo;Corinthians;28;9;0;0;indirect_fk;head;0;0;1;0;0;0;0
 1092;9;0;;Bruno Henrique;Guilherme;Corinthians;Botafogo;24;7;0;1;collective;head;0;0;1;0;0;0;0
 1093;9;0;;Lucca;-;Corinthians;Botafogo;0;28;0;1;direct_fk;foot;0;0;0;0;0;0;0
 1094;9;1;;Bruno Henrique ;Fagner;Corinthians;Botafogo;5;18;0;1;collective;foot;0;0;1;0;0;0;1
@@ -1286,7 +1286,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 1285;10;0;;Ayrton;-;Figueirense;Botafogo;0;18;0;0;individual;foot;0;0;0;0;0;0;0
 1286;10;0;;Emerson;Fernandes;Botafogo;Figueirense;22;8;0;1;corner;head;0;0;1;0;1;0;1
 1287;10;0;;Octavio;Neilton;Botafogo;Figueirense;27;9;0;1;collective;foot;0;0;0;0;1;0;1
-1288;10;0;;Renan Fonseca;Gervasio Nu–ez;Botafogo;Figueirense;24;3;0;1;indirect_fk;head;0;0;1;0;1;0;1
+1288;10;0;;Renan Fonseca;Gervasio Nu_ez;Botafogo;Figueirense;24;3;0;1;indirect_fk;head;0;0;1;0;1;0;1
 1289;10;0;;Emerson;Fernandes;Botafogo;Figueirense;22;8;0;1;corner;head;0;0;1;0;0;0;0
 1290;10;0;;Ayrton;-;Figueirense;Botafogo;0;27;0;0;direct_fk;foot;0;0;0;0;0;0;1
 1291;10;0;;Everton Santos;-;Figueirense;Botafogo;0;8;0;0;rebound;foot;0;0;0;0;1;0;1
@@ -1391,7 +1391,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 1390;11;0;;Ernando;William;Internacional;Botafogo;28;2;-1;1;indirect_fk;foot;0;0;1;0;1;0;1
 1391;11;0;;Bruno Baio;Eduardo Sasha;Internacional;Botafogo;25;8;-1;1;collective;head;0;0;1;0;1;0;1
 1392;11;0;;Bruno Baio;William;Internacional;Botafogo;22;8;-1;1;corner;head;0;0;1;0;0;0;0
-1393;11;0;;Gervasio Nu–ez;Ribamar;Botafogo;Internacional;13;7;1;0;collective;foot;0;1;0;1;1;0;1
+1393;11;0;;Gervasio Nu_ez;Ribamar;Botafogo;Internacional;13;7;1;0;collective;foot;0;1;0;1;1;0;1
 1394;11;0;;Fernandes;Neilton;Botafogo;Internacional;27;13;1;0;collective;foot;0;1;0;1;1;0;1
 1395;11;0;;Alisson;Willian Farias;Cruzeiro;Palmeiras;18;2;0;1;collective;foot;0;1;0;0;0;0;1
 1396;11;1;;Gabriel Jesus;Dudu;Palmeiras;Cruzeiro;4;13;0;0;collective;foot;0;0;0;0;1;1;1
@@ -1570,7 +1570,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 1569;12;1;;Sassa;-;Botafogo;Atletico MG;0;8;-3;0;penalty;foot;0;0;0;0;1;0;1
 1570;12;0;;Cazares;Junior Urso;Atletico MG;Botafogo;19;9;2;1;collective;foot;0;1;0;1;1;0;1
 1571;12;1;;Cazares;Fred;Atletico MG;Botafogo;28;17;2;1;individual;foot;0;0;0;0;0;0;1
-1572;12;1;;Gervasio Nu–ez;Luis Ricardo;Botafogo;Atletico MG;24;19;-3;0;individual;foot;0;0;0;0;0;0;1
+1572;12;1;;Gervasio Nu_ez;Luis Ricardo;Botafogo;Atletico MG;24;19;-3;0;individual;foot;0;0;0;0;0;0;1
 1573;12;1;;Carlos;Carlos Cesar;Atletico MG;Botafogo;28;13;2;1;collective;foot;0;1;0;0;1;0;1
 1574;12;1;;Bruno Silva;-;Botafogo;Atletico MG;0;27;-3;0;individual;foot;0;0;0;0;0;0;1
 1575;13;0;;Henrique;Gustavo Scarpa;Fluminense;Coritiba;24;9;0;1;indirect_fk;head;0;0;1;0;1;0;1
@@ -1630,7 +1630,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 1629;13;0;;Vitinho;Anderson;Internacional;Gremio;25;26;-1;1;individual;foot;0;0;0;0;0;0;0
 1630;13;0;;Vitinho;-;Internacional;Gremio;0;9;-1;1;individual;foot;1;0;0;0;1;0;1
 1631;13;0;;Anderson;Valdivia;Internacional;Gremio;21;2;-1;1;corner;head;0;0;1;0;1;0;0
-1632;13;0;;Luan;Bola–os;Gremio;Internacional;28;12;1;0;collective;foot;0;0;0;0;0;0;0
+1632;13;0;;Luan;Bola_os;Gremio;Internacional;28;12;1;0;collective;foot;0;0;0;0;0;0;0
 1633;13;0;;Rafael Vaz;-;Flamengo;Corinthians;0;15;0;0;individual;foot;0;0;0;0;0;0;1
 1634;13;0;;Cirino;-;Flamengo;Corinthians;0;4;0;0;individual;foot;0;0;0;0;1;0;1
 1635;13;0;;Marquinhos Gabriel;Romero;Corinthians;Flamengo;17;7;0;1;collective;foot;0;1;0;0;1;0;1
@@ -1878,7 +1878,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 1877;15;0;;Rafael Moura;Ayrton;Figueirense;Chapecoense;27;13;0;1;collective;head;0;0;1;0;0;0;0
 1878;15;1;;Rafael Moura;-;Figueirense;Chapecoense;0;8;0;1;penalty;foot;0;0;0;0;1;0;1
 1879;15;0;;Ananias;-;Chapecoense;Figueirense;0;18;-1;0;individual;foot;0;0;0;0;0;0;0
-1880;15;1;;Dener Assunçao;Lucas Gomes;Chapecoense;Figueirense;5;13;-1;0;collective;foot;0;0;1;0;1;0;1
+1880;15;1;;Dener Assuncao;Lucas Gomes;Chapecoense;Figueirense;5;13;-1;0;collective;foot;0;0;1;0;1;0;1
 1881;15;0;;Rafael Moura;-;Figueirense;Chapecoense;26;6;0;1;collective;foot;0;0;0;0;0;0;1
 1882;15;0;;Rafael Silva;-;Figueirense;Chapecoense;0;10;0;1;individual;foot;0;0;0;0;0;0;1
 1883;15;0;;Gimenez;Kempes;Chapecoense;Figueirense;23;4;0;0;collective;foot;0;0;1;0;1;0;0
@@ -2020,20 +2020,20 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 2019;16;0;;Rafael Sobis;-;Cruzeiro;Sport;0;18;-2;1;individual;foot;0;0;0;0;0;0;0
 2020;16;1;;Willian;-;Cruzeiro;Sport;0;3;-2;1;individual;head;0;0;1;0;1;0;1
 2021;16;0;;Mark Gonzalez;Diego Souza;Sport;Cruzeiro;26;11;1;0;collective;foot;0;0;0;1;1;0;0
-2022;16;0;;Bola–os;Maicon;Gremio;Sao Paulo;26;17;0;1;collective;foot;0;0;0;0;0;0;0
+2022;16;0;;Bola_os;Maicon;Gremio;Sao Paulo;26;17;0;1;collective;foot;0;0;0;0;0;0;0
 2023;16;0;;Negueba;Douglas;Gremio;Sao Paulo;26;25;0;1;individual;foot;0;0;0;0;0;0;0
-2024;16;0;;Bola–os;-;Gremio;Sao Paulo;0;19;0;1;individual;foot;0;0;0;0;0;0;0
-2025;16;0;;Everton;Bola–os;Gremio;Sao Paulo;10;15;0;1;collective;foot;0;0;0;0;0;0;1
+2024;16;0;;Bola_os;-;Gremio;Sao Paulo;0;19;0;1;individual;foot;0;0;0;0;0;0;0
+2025;16;0;;Everton;Bola_os;Gremio;Sao Paulo;10;15;0;1;collective;foot;0;0;0;0;0;0;1
 2026;16;0;;Edilson;-;Gremio;Sao Paulo;0;26;0;1;direct_fk;foot;0;0;0;0;0;0;0
 2027;16;0;;Michel Bastos;Cueva;Sao Paulo;Gremio;18;7;0;0;collective;foot;0;0;0;0;1;0;0
 2028;16;0;;Everton;Negueba;Gremio;Sao Paulo;19;19;0;1;collective;foot;0;0;0;0;0;0;0
-2029;16;0;;Bola–os;Maicon;Gremio;Sao Paulo;28;25;0;1;individual;foot;0;0;0;0;0;0;1
-2030;16;0;;Bola–os;-;Gremio;Sao Paulo;0;14;0;1;individual;foot;0;0;0;0;0;1;1
-2031;16;0;;Maicon;Bola–os;Gremio;Sao Paulo;26;12;0;1;individual;foot;0;0;0;0;0;0;1
+2029;16;0;;Bola_os;Maicon;Gremio;Sao Paulo;28;25;0;1;individual;foot;0;0;0;0;0;0;1
+2030;16;0;;Bola_os;-;Gremio;Sao Paulo;0;14;0;1;individual;foot;0;0;0;0;0;1;1
+2031;16;0;;Maicon;Bola_os;Gremio;Sao Paulo;26;12;0;1;individual;foot;0;0;0;0;0;0;1
 2032;16;1;;Douglas;-;Gremio;Sao Paulo;0;3;0;1;rebound;foot;0;0;0;0;1;0;1
 2033;16;0;;Negueba;-;Gremio;Sao Paulo;0;16;1;1;individual;foot;0;0;0;0;0;0;1
 2034;16;0;;Michel Bastos;Cueva;Sao Paulo;Gremio;22;12;-1;0;corner;foot;0;0;1;0;0;0;0
-2035;16;0;;Douglas;Bola–os;Gremio;Sao Paulo;26;11;1;1;collective;foot;0;0;0;1;0;0;1
+2035;16;0;;Douglas;Bola_os;Gremio;Sao Paulo;26;11;1;1;collective;foot;0;0;0;1;0;0;1
 2036;16;0;;Maicon;-;Gremio;Sao Paulo;0;13;1;1;individual;foot;0;0;0;0;1;0;1
 2037;16;0;;Dagoberto;-;Vitoria;Santos;0;21;0;1;corner;foot;0;0;0;0;0;0;1
 2038;16;0;;Ricardo Oliveira;Copete;Santos;Vitoria;16;8;0;0;collective;foot;0;1;0;1;1;0;1
@@ -2153,12 +2153,12 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 2152;17;1;;Erik;-;Palmeiras;Botafogo;0;8;-2;0;rebound;foot;0;0;0;0;1;0;1
 2153;17;0;;Camilo;Diogo Barbosa;Botafogo;Palmeiras;28;12;1;1;collective;foot;0;1;0;0;1;0;1
 2154;17;1;;Camilo;-;Botafogo;Palmeiras;0;8;1;1;penalty;foot;0;0;0;0;1;0;1
-2155;17;0;;Pedro Rocha;Bola–os;Gremio;America;28;13;0;0;collective;foot;1;0;0;0;0;0;0
+2155;17;0;;Pedro Rocha;Bola_os;Gremio;America;28;13;0;0;collective;foot;1;0;0;0;0;0;0
 2156;17;0;;Osman;Michael;America;Gremio;28;12;0;1;collective;foot;0;1;0;0;0;0;1
 2157;17;0;;Michael;Jonas;America;Gremio;24;9;0;1;indirect_fk;head;0;0;1;0;1;0;1
-2158;17;0;;Bola–os;Douglas;Gremio;America;28;18;0;0;collective;foot;0;1;0;1;1;0;1
+2158;17;0;;Bola_os;Douglas;Gremio;America;28;18;0;0;collective;foot;0;1;0;1;1;0;1
 2159;17;0;;Pablo;-;America;Gremio;0;20;0;1;individual;foot;1;0;0;0;0;0;1
-2160;17;0;;Bola–os;Maicon;Gremio;America;28;2;0;0;collective;foot;0;1;0;0;1;0;1
+2160;17;0;;Bola_os;Maicon;Gremio;America;28;2;0;0;collective;foot;0;1;0;0;1;0;1
 2161;17;0;;Michael;Jonas;America;Gremio;22;8;0;1;corner;foot;0;0;1;0;0;0;1
 2162;18;0;;Marcos Guilherme;Hernani;Atletico PR;Corinthians;28;9;0;1;collective;foot;0;1;0;0;0;0;0
 2163;18;0;;Hernani;-;Atletico PR;Corinthians;0;28;0;1;direct_fk;foot;0;0;0;0;0;0;0
@@ -2173,7 +2173,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 2172;18;1;;Walter;Lucas Fernandes;Atletico PR;Corinthians;19;12;1;1;collective;foot;0;1;0;1;1;1;1
 2173;18;0;;Thiago Santos;Ze Roberto;Palmeiras;Chapecoense;24;8;0;0;collective;head;0;0;1;0;0;0;1
 2174;18;0;;Dudu;Tche Tche;Palmeiras;Chapecoense;28;26;0;0;collective;foot;0;0;0;0;0;0;0
-2175;18;0;;Tiaguinho;Dener Assunçao;Chapecoense;Palmeiras;25;14;0;1;collective;foot;1;0;1;0;1;0;1
+2175;18;0;;Tiaguinho;Dener Assuncao;Chapecoense;Palmeiras;25;14;0;1;collective;foot;1;0;1;0;1;0;1
 2176;18;1;;Kempes;Hyoran;Chapecoense;Palmeiras;27;7;0;1;indirect_fk;foot;0;0;1;0;0;1;1
 2177;18;0;;Hyoran;-;Chapecoense;Palmeiras;0;17;1;1;individual;foot;1;0;0;0;0;0;1
 2178;18;0;;Moises;Leandro Pereira;Palmeiras;Chapecoense;16;17;-1;0;collective;foot;0;0;0;0;0;0;0
@@ -2210,7 +2210,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 2209;18;0;;Wallace Oliveira;Maicon;Gremio;Santa Cruz;17;14;0;1;collective;foot;0;0;1;0;0;0;0
 2210;18;0;;Grafite;Keno;Santa Cruz;Gremio;12;4;0;0;collective;foot;0;1;0;1;1;1;1
 2211;18;0;;Jadson;Leo Moura;Santa Cruz;Gremio;27;20;0;0;collective;foot;0;0;0;0;0;0;1
-2212;18;0;;Bola–os;-;Gremio;Santa Cruz;0;16;0;1;direct_fk;foot;0;0;0;0;1;0;1
+2212;18;0;;Bola_os;-;Gremio;Santa Cruz;0;16;0;1;direct_fk;foot;0;0;0;0;1;0;1
 2213;18;0;;Negueba;-;Gremio;Santa Cruz;0;8;0;1;rebound;head;0;0;0;0;1;0;1
 2214;18;0;;Douglas;Guilherme;Gremio;Santa Cruz;21;9;0;1;collective;head;0;0;1;0;1;0;1
 2215;18;0;;Joao Paulo;-;Santa Cruz;Gremio;0;17;0;0;direct_fk;foot;0;0;0;0;1;0;1
@@ -2397,20 +2397,20 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 2395;20;0;;Reinaldo;-;Ponte Preta;Figueirense;0;24;1;1;direct_fk;foot;0;0;0;0;0;0;0
 2396;20;1;;Roger;Wellington Paulista;Ponte Preta;Figueirense;9;3;1;1;collective;foot;0;0;1;0;1;0;1
 2397;20;0;;Wellington Paulista;-;Ponte Preta;Figueirense;0;20;2;1;individual;foot;0;0;0;0;0;0;0
-2398;20;0;;Bola–os;Douglas;Gremio;Corinthians;28;13;0;1;collective;foot;0;1;0;1;1;0;1
+2398;20;0;;Bola_os;Douglas;Gremio;Corinthians;28;13;0;1;collective;foot;0;1;0;1;1;0;1
 2399;20;0;;Bruno Henrique;-;Corinthians;Gremio;0;26;0;0;individual;foot;0;0;0;0;0;0;0
 2400;20;0;;Balbuena;Giovanni Augusto;Corinthians;Gremio;22;8;0;0;corner;head;0;0;0;0;0;0;0
 2401;20;1;;Pedro Rocha;-;Gremio;Corinthians;0;9;0;1;individual;foot;1;0;0;0;1;0;1
 2402;20;0;;Giovanni Augusto;-;Corinthians;Gremio;0;9;-1;0;individual;foot;0;0;0;0;1;0;1
 2403;20;0;;Everton;Jailson;Gremio;Corinthians;27;16;1;1;collective;foot;0;0;0;0;0;0;0
-2404;20;0;;Bola–os;-;Gremio;Corinthians;0;9;1;1;rebound;head;0;0;0;0;1;0;1
+2404;20;0;;Bola_os;-;Gremio;Corinthians;0;9;1;1;rebound;head;0;0;0;0;1;0;1
 2405;20;0;;Giovanni Augusto;-;Corinthians;Gremio;0;8;1;0;rebound;foot;0;0;0;0;1;0;1
-2406;20;0;;Bola–os;Douglas;Gremio;Corinthians;23;2;1;1;collective;foot;0;0;0;0;0;0;0
+2406;20;0;;Bola_os;Douglas;Gremio;Corinthians;23;2;1;1;collective;foot;0;0;0;0;0;0;0
 2407;20;1;;Everton;Douglas;Gremio;Corinthians;26;7;1;1;collective;foot;0;0;0;0;1;0;1
 2408;20;0;;Everton;Douglas;Gremio;Corinthians;26;7;2;1;collective;foot;0;1;0;0;1;0;1
 2409;20;0;;Romero;Marlone;Corinthians;Gremio;25;7;-2;0;collective;foot;0;1;0;0;1;0;1
 2410;20;0;;Lucca;-;Corinthians;Gremio;0;3;-2;0;indirect_fk;foot;0;0;1;0;1;0;1
-2411;20;1;;Bola–os;-;Gremio;Corinthians;0;13;2;1;rebound;foot;0;0;0;0;1;0;1
+2411;20;1;;Bola_os;-;Gremio;Corinthians;0;13;2;1;rebound;foot;0;0;0;0;1;0;1
 2412;20;0;;Marlone;-;Corinthians;Gremio;0;25;-3;0;individual;foot;0;0;0;0;0;0;0
 2413;20;0;;Bruno Henrique;Fagner;Corinthians;Gremio;24;8;-3;0;collective;head;0;0;1;0;1;0;1
 2414;20;1;;Diego Renan;Flavio;Vitoria;Santa Cruz;26;12;0;1;collective;foot;0;1;0;0;1;0;1
@@ -2437,7 +2437,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 2435;20;0;;Hyoran;-;Chapecoense;Internacional;0;18;0;1;individual;foot;0;0;0;0;0;0;0
 2436;20;0;;Hyoran;-;Chapecoense;Internacional;0;26;0;1;direct_fk;foot;0;0;0;0;0;0;1
 2437;20;0;;Seijas;-;Internacional;Chapecoense;0;26;0;0;individual;foot;0;0;0;0;0;1;0
-2438;20;0;;Kempes;Dener Assunçao ;Chapecoense;Internacional;23;7;0;1;collective;head;0;0;1;0;0;0;0
+2438;20;0;;Kempes;Dener Assuncao ;Chapecoense;Internacional;23;7;0;1;collective;head;0;0;1;0;0;0;0
 2439;20;0;;Matheus Biteco;-;Chapecoense;Internacional;0;15;0;1;individual;foot;0;0;0;0;0;0;0
 2440;20;0;;Matheus Biteco;Hyoran;Chapecoense;Internacional;19;18;0;1;collective;foot;0;0;0;0;0;0;0
 2441;20;0;;Paulao;Alex;Internacional;Chapecoense;28;9;0;0;indirect_fk;head;0;0;1;0;0;0;1
@@ -2452,9 +2452,9 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 2450;21;0;;Osman;-;America;Chapecoense;0;9;1;1;individual;foot;0;0;0;0;0;0;0
 2451;21;0;;-;Cleber Santana;Chapecoense;America;21;3;-1;0;indirect_fk;head;0;0;1;0;1;0;1
 2452;21;1;;Lucas Gomes;Martinuccio;Chapecoense;America;23;8;-1;0;collective;head;0;0;1;0;1;0;1
-2453;21;0;;Kempes;Dener Assunçao ;Chapecoense;America;23;8;0;0;collective;head;0;0;1;0;1;0;1
+2453;21;0;;Kempes;Dener Assuncao ;Chapecoense;America;23;8;0;0;collective;head;0;0;1;0;1;0;1
 2454;21;0;;Kempes;Sergio Manoel;Chapecoense;America;27;8;0;0;collective;foot;0;0;1;0;1;0;0
-2455;21;0;;Lucas Gomes;Dener Assunçao ;Chapecoense;America;21;8;0;0;collective;head;0;0;1;0;1;0;0
+2455;21;0;;Lucas Gomes;Dener Assuncao ;Chapecoense;America;21;8;0;0;collective;head;0;0;1;0;1;0;0
 2456;21;1;;Contra;Sergio Manoel;Chapecoense;America;27;13;0;0;collective;head;0;0;1;0;0;0;0
 2457;21;0;;Rodrigo Lindoso;Camilo;Botafogo;Sport;22;8;0;1;corner;head;0;0;1;0;0;0;0
 2458;21;0;;Rogerio;Samuel Xavier;Sport;Botafogo;19;13;0;0;individual;foot;0;0;0;0;0;0;1
@@ -2597,19 +2597,19 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 2595;22;0;;Cicero;Wellington;Fluminense;Palmeiras;21;8;-2;1;corner;head;0;0;1;0;0;0;0
 2596;22;0;;Dudu;Gabriel Jesus;Palmeiras;Fluminense;28;9;2;0;collective;foot;1;1;0;1;1;0;1
 2597;22;0;;Luan;-;Gremio;Atletico MG;0;17;0;1;individual;foot;0;0;0;0;0;0;0
-2598;22;0;;Bola–os;Wallace Reis;Gremio;Atletico MG;28;11;0;1;individual;foot;0;0;0;0;0;0;0
+2598;22;0;;Bola_os;Wallace Reis;Gremio;Atletico MG;28;11;0;1;individual;foot;0;0;0;0;0;0;0
 2599;22;0;;Maicon;Douglas;Gremio;Atletico MG;25;26;0;1;individual;foot;0;0;0;0;0;0;0
-2600;22;0;;Walace ;Bola–os;Gremio;Atletico MG;28;9;0;1;collective;foot;0;1;0;1;0;0;0
-2601;22;0;;Bola–os;-;Gremio;Atletico MG;0;19;0;1;individual;foot;0;0;0;0;0;1;1
+2600;22;0;;Walace ;Bola_os;Gremio;Atletico MG;28;9;0;1;collective;foot;0;1;0;1;0;0;0
+2601;22;0;;Bola_os;-;Gremio;Atletico MG;0;19;0;1;individual;foot;0;0;0;0;0;1;1
 2602;22;0;;Edilson;-;Gremio;Atletico MG;0;26;0;1;direct_fk;foot;0;0;0;0;0;0;0
 2603;22;0;;Luan;-;Gremio;Atletico MG;0;18;0;1;direct_fk;foot;0;0;0;0;0;0;0
-2604;22;0;;Bola–os;-;Gremio;Atletico MG;0;18;0;1;direct_fk;foot;0;0;0;0;0;0;1
+2604;22;0;;Bola_os;-;Gremio;Atletico MG;0;18;0;1;direct_fk;foot;0;0;0;0;0;0;1
 2605;22;0;;Luan;Maicon;Gremio;Atletico MG;25;11;0;1;individual;foot;1;0;0;0;0;0;0
 2606;22;0;;Walace ;Jailson;Gremio;Atletico MG;26;26;0;1;individual;foot;0;0;0;0;0;0;0
 2607;22;0;;Marcelo Oliveira;Walace;Gremio;Atletico MG;26;16;0;1;individual;foot;0;0;0;0;0;0;0
-2608;22;0;;Bola–os;Luan;Gremio;Atletico MG;19;9;0;1;collective;foot;0;0;0;0;1;0;1
+2608;22;0;;Bola_os;Luan;Gremio;Atletico MG;19;9;0;1;collective;foot;0;0;0;0;1;0;1
 2609;22;1;;Luan;-;Gremio;Atletico MG;0;19;0;1;individual;foot;0;0;0;0;0;0;1
-2610;22;0;;Walace ;Bola–os;Gremio;Atletico MG;17;18;1;1;collective;foot;0;0;0;0;0;0;1
+2610;22;0;;Walace ;Bola_os;Gremio;Atletico MG;17;18;1;1;collective;foot;0;0;0;0;0;0;1
 2611;22;0;;Luan;Walace;Gremio;Atletico MG;15;7;1;1;collective;foot;0;0;1;0;0;0;1
 2612;22;1;;Robinho;Douglas Santos;Atletico MG;Gremio;25;8;-1;0;collective;foot;0;0;1;0;1;0;1
 2613;22;0;;Lucas Pratto;Maicosuel;Atletico MG;Gremio;26;7;0;0;collective;foot;0;1;0;1;1;0;1
@@ -2667,7 +2667,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 2665;22;0;;everton;Willian Arao;Flamengo;Chapecoense;18;14;0;0;collective;foot;0;0;0;0;1;0;0
 2666;22;0;;Kempes;-;Chapecoense;Flamengo;0;14;0;1;individual;foot;1;0;0;0;0;0;0
 2667;22;0;;Marcio Araujo;-;Flamengo;Chapecoense;0;18;0;0;individual;foot;0;0;0;0;0;0;0
-2668;22;0;;Dener Assunçao;-;Chapecoense;Flamengo;0;25;0;1;individual;foot;0;0;0;0;0;0;0
+2668;22;0;;Dener Assuncao;-;Chapecoense;Flamengo;0;25;0;1;individual;foot;0;0;0;0;0;0;0
 2669;22;0;;Diego;-;Flamengo;Chapecoense;0;26;0;0;individual;foot;0;0;0;0;0;0;0
 2670;22;1;;Leandro Damiao;-;Flamengo;Chapecoense;0;8;0;1;penalty;foot;0;0;0;0;1;0;1
 2671;22;0;;Guerrero;Leandro Damiao;Flamengo;Chapecoense;21;7;1;0;collective;foot;0;1;0;0;1;0;1
@@ -2949,7 +2949,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 2947;24;1;;Vinicius Araujo;Luis Ruiz;Sport;Santa Cruz;7;8;0;1;collective;foot;0;0;1;1;1;0;1
 2948;24;1;;Everton Felipe;Vinicius Araujo;Sport;Santa Cruz;28;11;1;1;collective;foot;0;1;0;1;1;0;1
 2949;24;0;;Walace;-;Gremio;Palmeiras;0;18;0;1;individual;foot;0;0;0;0;0;0;0
-2950;24;0;;Bola–os;Luan;Gremio;Palmeiras;25;26;0;1;collective;foot;0;0;0;0;0;0;1
+2950;24;0;;Bola_os;Luan;Gremio;Palmeiras;25;26;0;1;collective;foot;0;0;0;0;0;0;1
 2951;24;0;;Pedro Rocha;Walace;Gremio;Palmeiras;28;15;0;1;individual;foot;1;0;0;0;0;0;1
 2952;24;0;;Pedro Rocha;Douglas;Gremio;Palmeiras;19;8;0;1;collective;foot;0;1;0;1;1;1;1
 2953;24;0;;Moises;-;Palmeiras;Gremio;0;18;0;0;direct_fk;foot;0;0;0;0;0;0;0
@@ -3067,7 +3067,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 3065;25;0;26;Josimar;-;Chapecoense;Fluminense;0;19;-1;0;individual;foot;0;0;0;0;0;0;1
 3066;25;0;29;Cicero;Marcos Junior;Fluminense;Chapecoense;23;7;1;1;collective;head;0;0;1;0;0;0;1
 3067;25;0;46;Gustavo Scarpa;-;Fluminense;Chapecoense;0;26;1;1;individual;foot;0;0;0;0;0;0;0
-3068;25;1;53;Dener Assunçao;Tiaguinho;Chapecoense;Fluminense;23;12;-1;0;collective;foot;0;0;0;1;0;0;1
+3068;25;1;53;Dener Assuncao;Tiaguinho;Chapecoense;Fluminense;23;12;-1;0;collective;foot;0;0;0;1;0;0;1
 3069;25;0;54;Marcos Junior;-;Fluminense;Chapecoense;0;15;0;1;individual;foot;0;0;0;0;0;0;0
 3070;25;0;55;Cicero;-;Fluminense;Chapecoense;0;18;0;1;individual;foot;0;0;0;0;0;0;1
 3071;25;0;70;Lourency;-;Chapecoense;Fluminense;0;9;0;0;individual;foot;1;0;0;1;1;0;1
@@ -3321,7 +3321,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 3319;27;0;55;Henrique Almeida;Luan;Gremio;Chapecoense;26;20;1;1;individual;foot;0;0;0;0;0;0;0
 3320;27;0;65;Biteco;Gimenez;Chapecoense;Gremio;24;8;-1;0;collective;head;0;0;1;0;0;0;0
 3321;27;0;67;Rafael Lima;Cleber Santana;Chapecoense;Gremio;21;2;-1;0;indirect_fk;foot;0;0;1;0;0;0;0
-3322;27;0;70;Kempes;Dener Assunçao;Chapecoense;Gremio;21;8;-1;0;collective;head;0;0;1;0;0;0;1
+3322;27;0;70;Kempes;Dener Assuncao;Chapecoense;Gremio;21;8;-1;0;collective;head;0;0;1;0;0;0;1
 3323;27;0;74;Douglas;-;Gremio;Chapecoense;26;26;1;1;individual;foot;0;0;0;0;0;0;0
 3324;27;0;83;Luan;-;Gremio;Chapecoense;28;17;1;1;individual;foot;0;0;0;0;0;0;0
 3325;27;0;87;Guilherme;Luan;Gremio;Chapecoense;26;10;1;1;collective;foot;0;1;0;0;0;0;0
@@ -3368,7 +3368,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 3366;27;0;75;Danilo Barcelos;Michael;America;Botafogo;24;7;1;1;collective;foot;0;0;1;1;1;0;1
 3367;27;0;80;Danilo Barcelos;-;America;Botafogo;0;18;1;1;direct_fk;foot;0;0;0;0;0;0;0
 3368;27;0;90;Emerson Santos;-;Botafogo;America;0;26;-1;0;direct_fk;foot;0;0;0;0;0;0;0
-3369;27;0;91;Canales;Gervasio Nu–ez;Botafogo;America;2;8;-1;0;collective;foot;0;0;1;0;1;0;0
+3369;27;0;91;Canales;Gervasio Nu_ez;Botafogo;America;2;8;-1;0;collective;foot;0;0;1;0;1;0;0
 3370;27;0;5;Reinaldo;-;Ponte Preta;Atletico PR;0;16;0;0;rebound;foot;0;0;0;0;0;0;0
 3371;27;0;13;Maycon;Felipe Azevedo;Ponte Preta;Atletico PR;10;9;0;0;collective;head;0;0;1;1;1;1;0
 3372;27;0;23;Thiago Heleno;Lucho Gonzales;Atletico PR;Ponte Preta;22;8;0;1;indirect_fk;head;0;0;1;0;0;0;0
@@ -3485,13 +3485,13 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 3483;28;0;34;Rafael Bastos;Tiaguinho;Chapecoense;Vitoria;28;26;-3;1;collective;foot;0;0;0;1;0;1;1
 3484;28;1;39;Kieza;Marinho;Vitoria;Chapecoense;27;13;3;0;collective;foot;0;0;1;0;0;0;1
 3485;28;0;44;Marinho;Ze Love;Vitoria;Chapecoense;15;19;3;0;collective;foot;0;0;0;0;1;1;1
-3486;28;0;45;Dener Assunçao;-;Chapecoense;Vitoria;0;26;-4;1;direct_fk;foot;0;0;0;0;0;0;0
-3487;28;0;53;Rafael Bastos;Dener Assunçao;Chapecoense;Vitoria;21;9;-4;1;collective;head;0;0;1;0;1;0;1
+3486;28;0;45;Dener Assuncao;-;Chapecoense;Vitoria;0;26;-4;1;direct_fk;foot;0;0;0;0;0;0;0
+3487;28;0;53;Rafael Bastos;Dener Assuncao;Chapecoense;Vitoria;21;9;-4;1;collective;head;0;0;1;0;1;0;1
 3488;28;1;54;Tiaguinho;Gil;Chapecoense;Vitoria;22;8;-4;1;collective;head;0;0;1;0;0;0;1
 3489;28;0;63;Tiaguinho;Thiego;Chapecoense;Vitoria;27;12;-3;1;collective;head;0;0;1;0;0;0;0
 3490;28;0;66;Rafael Bastos;Cleber Santana;Chapecoense;Vitoria;28;20;-3;1;individual;foot;0;0;0;0;0;0;0
 3491;28;0;69;Thiego;-;Chapecoense;Vitoria;0;26;-3;1;individual;foot;0;0;0;0;0;0;0
-3492;28;0;87;Dener Assunçao;Gil;Chapecoense;Vitoria;27;7;-3;1;collective;head;0;0;1;0;0;0;0
+3492;28;0;87;Dener Assuncao;Gil;Chapecoense;Vitoria;27;7;-3;1;collective;head;0;0;1;0;0;0;0
 3493;28;0;5;Felipe Azevedo;Roger    ;Ponte Preta;Atletico MG;13;18;0;1;collective;foot;0;0;0;0;0;0;0
 3494;28;0;8;Thiago Galhardo;Ravanelli;Ponte Preta;Atletico MG;22;8;0;1;corner;head;0;0;1;0;0;0;1
 3495;28;1;16;Junior Urso;Fabio Santos;Atletico MG;Ponte Preta;11;8;0;0;collective;foot;0;0;1;0;1;0;1
@@ -3697,7 +3697,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 3695;29;0;74;Luiz Felipe;Jean Mota;Santos;Fluminense;28;24;0;1;collective;foot;0;0;0;0;0;0;1
 3696;29;0;79;Jean Mota;-;Santos;Fluminense;0;19;0;1;direct_fk;foot;0;0;0;0;1;0;1
 3697;29;1;80;Ricardo Oliveira;Jean Mota;Santos;Fluminense;22;4;0;1;corner;head;0;0;1;0;0;0;1
-3698;30;0;10;Ananias;Dener Assunçao;Chapecoense;Sport;23;9;0;1;collective;head;0;0;1;0;0;0;0
+3698;30;0;10;Ananias;Dener Assuncao;Chapecoense;Sport;23;9;0;1;collective;head;0;0;1;0;0;0;0
 3699;30;0;12;Rodney Wallace;-;Sport;Chapecoense;0;11;0;0;individual;foot;1;0;0;0;0;0;1
 3700;30;0;26;Kempes;Ananias;Chapecoense;Sport;20;14;0;1;collective;foot;0;0;1;1;1;1;1
 3701;30;0;34;Everton Felipe;Rogerio;Sport;Chapecoense;23;17;0;0;collective;foot;0;0;0;0;0;0;0
@@ -3876,7 +3876,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 3874;31;1;69;Leonardo Silva;Otero;Atletico MG;Botafogo;22;8;-1;0;corner;head;0;0;1;0;0;0;1
 3875;31;0;75;Camilo;-;Botafogo;Atletico MG;0;23;0;1;direct_fk;foot;0;0;0;0;0;0;0
 3876;31;0;76;Bruno Silva;Camilo;Botafogo;Atletico MG;13;18;0;1;collective;foot;0;0;0;0;0;0;0
-3877;31;0;85;Gervasio Nu–ez;Camilo;Botafogo;Atletico MG;28;11;0;1;collective;foot;0;1;0;0;0;0;0
+3877;31;0;85;Gervasio Nu_ez;Camilo;Botafogo;Atletico MG;28;11;0;1;collective;foot;0;1;0;0;0;0;0
 3878;31;0;87;Victor Luis;Camilo;Botafogo;Atletico MG;15;7;0;1;collective;foot;0;0;1;1;1;0;1
 3879;31;1;90;Dudu Cearense;Camilo;Botafogo;Atletico MG;21;2;0;1;corner;head;0;0;1;0;0;0;1
 3880;31;0;3;Henrique;abila;Cruzeiro;Chapecoense;17;18;0;1;collective;foot;0;0;0;0;0;0;1
@@ -3968,7 +3968,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 3966;31;0;63;Thiago Maia;Copete;Santos;Gremio;6;7;0;1;collective;foot;0;0;1;0;0;0;0
 3967;31;0;66;Copete;-;Santos;Gremio;0;8;0;1;individual;foot;0;0;1;0;0;0;0
 3968;31;0;80;Vitor Bueno;-;Santos;Gremio;0;14;0;1;individual;foot;0;0;0;0;0;0;1
-3969;31;0;83;Everton;Bola–os;Gremio;Santos;28;19;0;0;collective;foot;0;1;0;1;1;0;0
+3969;31;0;83;Everton;Bola_os;Gremio;Santos;28;19;0;0;collective;foot;0;1;0;1;1;0;0
 3970;31;0;84;Everton;-;Gremio;Santos;0;9;0;0;rebound;foot;0;0;0;0;1;0;0
 3971;31;0;84;Vitor Bueno;Copete;Santos;Gremio;23;4;0;1;collective;foot;0;0;1;0;1;0;1
 3972;31;0;85;Copete;-;Santos;Gremio;27;12;0;1;individual;foot;0;0;0;0;0;0;0
@@ -4114,13 +4114,13 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 4112;32;0;83;Arthur Maia;-;Chapecoense;Santos;0;26;-1;1;individual;foot;0;0;0;0;0;0;0
 4113;32;0;15;Ceara;Valdivia;Internacional;Gremio;26;26;0;0;individual;foot;0;0;0;0;0;0;0
 4114;32;0;22;Edilson;-;Gremio;Internacional;28;0;0;1;direct_fk;foot;0;0;0;0;0;0;0
-4115;32;0;34;Luan;Bola–os;Gremio;Internacional;17;17;0;1;collective;foot;0;0;0;0;0;0;0
+4115;32;0;34;Luan;Bola_os;Gremio;Internacional;17;17;0;1;collective;foot;0;0;0;0;0;0;0
 4116;32;0;37;Valdivia;Eduardo Sasha;Internacional;Gremio;28;26;0;0;individual;foot;0;0;0;0;0;0;0
-4117;32;0;38;Bola–os;Marcelo Oliveira;Gremio;Internacional;25;17;0;1;individual;foot;0;0;0;0;0;0;0
+4117;32;0;38;Bola_os;Marcelo Oliveira;Gremio;Internacional;25;17;0;1;individual;foot;0;0;0;0;0;0;0
 4118;32;0;49;Edilson;-;Gremio;Internacional;0;27;0;1;direct_fk;foot;0;0;0;0;0;0;0
 4119;32;0;51;Vitinho;Rodrigo Dourado;Internacional;Gremio;28;12;0;0;collective;foot;0;1;0;1;1;0;0
-4120;32;0;54;Kanneman;Bola–os;Gremio;Internacional;21;8;0;1;corner;head;0;0;1;0;0;0;0
-4121;32;0;58;Bola–os;Edilson;Gremio;Internacional;22;6;0;1;collective;head;0;0;1;0;0;0;0
+4120;32;0;54;Kanneman;Bola_os;Gremio;Internacional;21;8;0;1;corner;head;0;0;1;0;0;0;0
+4121;32;0;58;Bola_os;Edilson;Gremio;Internacional;22;6;0;1;collective;head;0;0;1;0;0;0;0
 4122;32;0;79;Walace;-;Gremio;Internacional;0;25;0;1;individual;foot;0;0;0;0;0;0;0
 4123;32;0;81;Ramiro;Luan;Gremio;Internacional;26;27;0;1;individual;foot;0;0;0;0;0;0;0
 4124;32;0;88;William;Gustavo Ferrareis;Internacional;Gremio;20;15;0;0;collective;foot;0;0;0;0;0;0;0
@@ -4188,7 +4188,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 4186;33;0;80;Victor Luis;-;Botafogo;Coritiba;0;26;0;1;individual;foot;0;0;0;0;0;0;0
 4187;33;0;83;Camilo;-;Botafogo;Coritiba;0;26;0;1;individual;foot;0;0;0;0;0;0;0
 4188;33;0;85;Vinicius Tanque;Neilton;Botafogo;Coritiba;2;7;0;1;collective;foot;0;0;1;0;0;0;0
-4189;33;0;90;Gervasio Nu–ez;-;Botafogo;Coritiba;0;19;0;1;individual;foot;0;0;0;0;0;0;0
+4189;33;0;90;Gervasio Nu_ez;-;Botafogo;Coritiba;0;19;0;1;individual;foot;0;0;0;0;0;0;0
 4190;33;0;91;Vinicius Tanque;Camilo;Botafogo;Coritiba;21;8;0;1;indirect_fk;head;0;0;1;0;1;0;1
 4191;33;0;92;Kazim;-;Coritiba;Botafogo;0;14;0;0;individual;foot;0;0;0;0;0;0;0
 4192;33;0;3;Fernandinho;Guerrero;Flamengo;Atletico MG;26;2;0;0;collective;foot;0;1;0;0;1;0;1
@@ -4302,12 +4302,12 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 4300;33;0;14;Rafael Silva;Ayrton;Figueirense;Gremio;25;8;0;1;indirect_fk;head;0;0;1;0;0;0;0
 4301;33;0;18;Negueba;-;Gremio;Figueirense;0;26;0;0;individual;foot;0;0;0;0;0;0;0
 4302;33;0;19;Rafael Moura;-;Figueirense;Gremio;0;26;0;1;individual;foot;0;0;0;0;0;0;0
-4303;33;0;20;Bola–os;-;Gremio;Figueirense;0;21;0;0;direct_fk;head;0;0;0;0;0;0;0
+4303;33;0;20;Bola_os;-;Gremio;Figueirense;0;21;0;0;direct_fk;head;0;0;0;0;0;0;0
 4304;33;0;33;Bady;-;Figueirense;Gremio;0;26;0;1;individual;foot;0;0;0;0;0;0;0
 4305;33;0;39;Rafael Moura;Rafael Silva;Figueirense;Gremio;27;26;0;1;individual;foot;0;0;0;0;0;0;0
 4306;33;0;42;Rafael Moura;Ayrton;Figueirense;Gremio;22;8;0;1;corner;head;0;0;1;0;1;0;1
 4307;33;0;55;Iago;-;Gremio;Figueirense;0;20;0;0;direct_fk;foot;0;0;0;0;0;0;0
-4308;33;0;71;Bola–os;-;Gremio;Figueirense;0;26;0;0;direct_fk;foot;0;0;0;0;0;0;0
+4308;33;0;71;Bola_os;-;Gremio;Figueirense;0;26;0;0;direct_fk;foot;0;0;0;0;0;0;0
 4309;33;0;73;Matheusinho;-;Figueirense;Gremio;0;7;0;1;collective;foot;0;0;0;0;0;0;0
 4310;33;0;87;Batista;-;Gremio;Figueirense;0;17;0;0;collective;foot;0;0;0;1;0;0;0
 4311;33;0;91;Everton;-;Gremio;Figueirense;0;26;0;0;individual;foot;0;0;0;0;0;0;0
@@ -4384,7 +4384,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 4382;34;0;46;Rafael Moura;-;Figueirense;Chapecoense;0;18;0;0;individual;foot;0;0;0;0;0;0;0
 4383;34;0;49;Rafael Moura;Bady;Figueirense;Chapecoense;19;2;0;0;collective;foot;0;1;0;0;0;0;1
 4384;34;0;51;Hyoran;Tiaguinho;Chapecoense;Figueirense;17;17;0;1;individual;foot;0;0;0;0;1;0;1
-4385;34;0;59;Hyoran;Dener Assunçao;Chapecoense;Figueirense;21;8;0;1;collective;head;0;0;1;0;1;0;1
+4385;34;0;59;Hyoran;Dener Assuncao;Chapecoense;Figueirense;21;8;0;1;collective;head;0;0;1;0;1;0;1
 4386;34;0;66;Hyoran;Thiego;Chapecoense;Figueirense;28;19;0;1;individual;foot;1;0;0;0;0;0;1
 4387;34;0;68;Hyoran;-;Chapecoense;Figueirense;0;18;0;1;individual;foot;0;0;0;0;0;0;1
 4388;34;0;69;Tiaguinho;-;Chapecoense;Figueirense;0;18;0;1;individual;foot;0;0;0;0;0;0;0
@@ -4525,7 +4525,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 4523;35;1;64;Sergio Manoel;Thiaguinho;Chapecoense;Botafogo;28;18;1;0;collective;foot;0;1;0;1;1;0;1
 4524;35;0;66;Neilton;-;Botafogo;Chapecoense;26;26;-2;1;individual;foot;0;0;0;0;0;0;0
 4525;35;0;79;Camilo;-;Botafogo;Chapecoense;8;7;-2;1;individual;foot;0;0;0;0;0;0;1
-4526;35;0;82;Gervasio Nu–ez;-;Botafogo;Chapecoense;0;18;-2;1;individual;foot;1;0;0;0;0;0;0
+4526;35;0;82;Gervasio Nu_ez;-;Botafogo;Chapecoense;0;18;-2;1;individual;foot;1;0;0;0;0;0;0
 4527;35;0;86;Camilo;-;Botafogo;Chapecoense;0;26;-2;1;individual;foot;0;0;0;0;0;0;0
 4528;35;0;88;Camilo;-;Botafogo;Chapecoense;0;26;-2;1;individual;foot;0;0;0;0;0;0;0
 4529;35;0;20;Rogerio;-;Sport;Cruzeiro;0;18;0;1;individual;foot;0;0;0;0;0;0;0
@@ -4636,8 +4636,8 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 4634;36;1;24;Negueba;-;Gremio;America;7;3;1;1;collective;foot;0;0;0;0;1;0;1
 4635;36;0;39;Nilson;Bruno Teles;America;Gremio;21;8;-2;0;corner;head;0;0;1;0;0;0;0
 4636;36;0;49;Tony;Nilson;America;Gremio;18;18;-2;0;collective;foot;0;0;0;0;0;0;0
-4637;36;0;59;Guilherme;Bola–os;Gremio;America;10;8;2;1;collective;foot;0;1;1;1;1;0;0
-4638;36;1;64;Bola–os;Sandows;Gremio;America;27;13;2;1;collective;foot;0;1;0;1;1;0;1
+4637;36;0;59;Guilherme;Bola_os;Gremio;America;10;8;2;1;collective;foot;0;1;1;1;1;0;0
+4638;36;1;64;Bola_os;Sandows;Gremio;America;27;13;2;1;collective;foot;0;1;0;1;1;0;1
 4639;36;0;69;Fred;-;Gremio;America;0;19;3;1;direct_fk;foot;0;0;0;0;0;0;0
 4640;36;0;82;Cardoso;-;America;Gremio;8;8;-3;0;collective;foot;0;0;0;0;1;0;0
 4641;36;0;11;Camacho;Fagner;Corinthians;Internacional;4;3;0;1;collective;foot;0;0;1;0;1;0;1
@@ -4742,7 +4742,7 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 4708;36;0;12;Lucas Gomes;-;Chapecoense;Sao Paulo;0;19;0;1;individual;foot;0;0;0;0;0;0;1
 4709;36;0;30;David Neres;Cueva;Sao Paulo;Chapecoense;10;9;0;0;collective;foot;1;0;1;0;0;0;0
 4710;36;0;31;Buffarini;Thiago Mendes;Sao Paulo;Chapecoense;19;15;0;0;collective;foot;0;1;0;0;0;0;0
-4711;36;1;39;Dener Assunçao;Tiaguinho;Chapecoense;Sao Paulo;18;11;0;1;collective;foot;0;0;0;0;0;0;1
+4711;36;1;39;Dener Assuncao;Tiaguinho;Chapecoense;Sao Paulo;18;11;0;1;collective;foot;0;0;0;0;0;0;1
 4712;36;1;45;Tiaguinho;Thiego;Chapecoense;Sao Paulo;28;17;1;1;collective;foot;0;0;0;0;1;0;1
 4713;36;0;50;Thiago Mendes;-;Sao Paulo;Chapecoense;0;26;-2;0;individual;foot;0;0;0;0;0;0;0
 4714;36;0;54;Tiaguinho;Lucas Gomes;Chapecoense;Sao Paulo;4;13;2;1;collective;foot;0;0;1;1;1;0;1
