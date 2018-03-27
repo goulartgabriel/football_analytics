@@ -1,0 +1,66 @@
+index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assistance;region_shot;goal_difference;at_home;type_of_play;type_of_shot;dribble_before_shot;deep_pass;cross;counter_attack;good_chance;defense_mistake;dangerous_shot
+1;3;0;5;Gabriel Jesus;Neymar;Brasil;Bolivia;7;26;0;1;collective;foot;0;1;0;0;0;0;0
+2;3;1;10;Neymar;Gabriel Jesus;Brasil;Bolivia;8;14;0;1;collective;foot;0;0;1;1;1;1;1
+3;3;0;14;Renato Augusto;Neymar;Brasil;Bolivia;7;27;1;1;indirect_fk;head;0;0;1;0;0;0;0
+4;3;0;16;Marcelo Moreno;-;Bolivia;Brasil;26;0;-1;0;individual;foot;0;0;0;0;0;0;0
+5;3;1;25;Philippe Coutinho;Giuliano;Brasil;Bolivia;9;4;1;1;collective;foot;1;0;1;0;0;0;0
+6;3;1;38;Filipe Luis;Neymar;Brasil;Bolivia;7;26;2;1;collective;foot;0;1;0;0;0;0;0
+7;3;0;42;Marcelo Moreno;-;Bolivia;Brasil;26;0;-2;0;direct_fk;foot;0;0;0;0;0;0;0
+8;3;1;43;Gabriel Jesus;Neymar;Brasil;Bolivia;2;17;3;1;collective;foot;0;1;0;1;0;0;0
+9;3;0;51;Marcelo Moreno;-;Bolivia;Brasil;7;23;-3;0;throw;head;0;0;1;0;0;0;0
+10;3;0;51;Neymar;Giuliano;Brasil;Bolivia;18;28;4;1;collective;foot;1;0;0;0;0;0;0
+11;3;0;53;Giuliano;-;Brasil;Bolivia;9;0;4;1;rebound;foot;0;0;0;0;0;0;0
+12;3;0;58;Gabriel Jesus;Neymar;Brasil;Bolivia;8;25;4;1;collective;head;0;0;1;0;0;0;0
+13;3;0;60;Neymar;Gabriel Jesus;Brasil;Bolivia;2;25;4;1;collective;foot;0;0;0;0;0;0;0
+14;3;0;69;Firmino;Filipe Luis;Brasil;Bolivia;13;25;4;1;collective;foot;0;0;1;0;0;0;0
+15;3;1;74;Firmino;Philippe Coutinho;Brasil;Bolivia;8;21;4;1;corner;head;0;0;1;0;0;0;0
+16;3;0;78;Willian;Philippe Coutinho;Brasil;Bolivia;15;25;5;1;collective;foot;0;0;0;0;0;0;0
+17;3;0;89;Lucas Lima;-;Brasil;Bolivia;26;0;5;1;individual;foot;0;0;0;0;0;0;0
+18;3;0;91;Willian;-;Brasil;Bolivia;26;0;5;1;individual;foot;0;0;0;0;0;0;0
+19;1;0;3;Gabriel Jesus;Neymar;Brasil;Equador;14;28;0;0;collective;foot;0;0;0;0;0;0;0
+20;1;0;5;Willian;-;Brasil;Equador;26;0;0;0;individual;foot;0;0;0;0;0;0;0
+21;1;0;15;Gabriel Jesus;-;Brasil;Equador;27;0;0;0;individual;foot;0;0;0;0;0;0;0
+22;1;0;20;Montero;-;Equador;Brasil;6;0;0;1;indirect_fk;foot;0;0;0;0;0;0;0
+23;1;0;30;Renato Augusto;Willian;Brasil;Equador;19;26;0;0;collective;foot;0;0;0;0;0;0;0
+24;1;0;34;Noboa;-;Equador;Brasil;14;0;0;1;individual;foot;1;0;0;0;0;0;0
+25;1;0;42;Valencia;-;Equador;Brasil;10;0;0;1;individual;foot;0;0;0;0;0;0;0
+26;1;0;46;Neymar;-;Brasil;Equador;25;0;0;0;individual;foot;0;0;0;0;0;0;0
+27;1;0;49;Gabriel Jesus;-;Brasil;Equador;18;0;0;0;individual;foot;0;0;0;1;0;0;0
+28;1;0;63;Renato Augusto;Neymar;Brasil;Equador;14;26;0;0;collective;foot;0;0;0;1;0;0;0
+29;1;0;65;Marcelo;-;Brasil;Equador;17;0;0;0;individual;foot;0;0;0;0;0;0;1
+30;1;1;71;Neymar;-;Brasil;Equador;8;0;0;0;penalty;foot;0;0;0;0;0;1;1
+31;1;0;77;Bolanos;-;Equador;Brasil;26;0;-1;1;individual;foot;0;0;0;0;0;0;1
+32;1;0;82;Philippe Coutinho;-;Brasil;Equador;7;0;1;0;individual;foot;1;0;0;0;0;1;1
+33;1;1;86;Gabriel Jesus;Marcelo;Brasil;Equador;2;1;1;0;collective;foot;0;0;1;0;0;1;1
+34;1;1;91;Gabriel Jesus;Neymar;Brasil;Equador;17;23;2;0;individual;foot;0;0;0;1;0;1;1
+35;2;1;1;Miranda;Neymar;Brasil;Colombia;2;21;0;1;corner;head;0;0;1;0;0;0;1
+36;2;0;8;Bacca;-;Colombia;Brasil;7;0;-1;0;collective;head;0;0;1;0;0;0;0
+37;2;0;13;Neymar;-;Brasil;Colombia;26;0;1;1;direct_fk;foot;0;0;0;0;0;0;0
+38;2;0;21;Marcelo;-;Brasil;Colombia;11;0;1;1;individual;foot;1;0;0;0;0;0;0
+39;2;0;30;Renato Augusto;Paulinho;Brasil;Colombia;26;18;1;1;individual;foot;0;0;0;0;0;0;0
+40;2;0;32;Neymar;Gabriel Jesus;Brasil;Colombia;7;17;1;1;collective;foot;0;1;0;0;0;1;1
+41;2;1;35;Contra;James;Colombia;Brasil;8;27;-1;0;indirect_fk;head;0;0;1;0;0;0;0
+42;2;0;37;Neymar;Gabriel Jesus;Brasil;Colombia;19;14;0;1;collective;foot;0;0;0;0;0;0;1
+43;2;0;48;Paulinho;Neymar;Brasil;Colombia;7;26;0;1;collective;foot;0;0;0;0;0;0;0
+44;2;0;50;Muriel;Bacca;Colombia;Brasil;14;7;0;0;collective;foot;0;0;1;1;0;0;0
+45;2;0;62;Gabriel Jesus;Daniel Alves;Brasil;Colombia;7;27;0;1;collective;head;0;0;1;0;0;0;0
+46;2;0;65;James;-;Colombia;Brasil;19;15;0;0;collective;foot;0;0;0;0;0;0;0
+47;2;1;73;Neymar;Philippe Coutinho;Brasil;Colombia;11;26;0;1;collective;foot;0;0;0;0;0;0;1
+48;2;0;77;Philippe Coutinho;-;Brasil;Colombia;14;0;1;1;individual;foot;0;0;0;1;0;1;0
+49;4;0;2;Renato Augusto;-;Brasil;Venezuela;25;0;0;0;individual;foot;0;0;0;0;0;0;0
+50;4;1;7;Gabriel Jesus;-;Brasil;Venezuela;18;0;0;0;individual;foot;0;0;0;1;1;1;1
+51;4;0;15;Philippe Coutinho;Gabriel Jesus;Brasil;Venezuela;17;17;1;0;collective;foot;0;0;0;0;0;0;0
+52;4;0;25;Gabriel Jesus;Philippe Coutinho;Brasil;Venezuela;12;21;1;0;corner;head;0;0;1;0;0;0;0
+53;4;0;32;Paulinho;Gabriel Jesus;Brasil;Venezuela;12;19;1;0;collective;foot;0;0;0;1;1;1;0
+54;4;0;34;Philippe Coutinho;-;Brasil;Venezuela;25;0;1;0;individual;foot;0;0;0;0;0;0;0
+55;4;0;41;Rondon;-;Venezuela;Brasil;12;21;-1;1;corner;head;0;0;0;0;0;0;0
+56;4;0;48;Gabriel Jesus;Filipe Luis;Brasil;Venezuela;12;21;1;0;collective;foot;0;0;1;0;0;0;0
+57;4;1;52;Willian;Renato Augusto;Brasil;Venezuela;4;21;1;0;collective;foot;0;0;1;0;0;1;1
+58;4;0;60;Rondon;-;Venezuela;Brasil;14;9;-2;1;collective;foot;0;0;0;0;0;0;0
+59;4;0;61;Rondon;-;Venezuela;Brasil;7;26;-2;1;collective;head;0;0;1;0;0;0;0
+60;4;0;62;Gabriel Jesus;Philippe Coutinho;Brasil;Venezuela;13;11;2;1;collective;foot;0;0;1;1;0;1;1
+61;4;0;66;Martinez;-;Venezuela;Brasil;26;0;-2;1;individual;foot;0;0;0;0;0;0;0
+62;4;0;68;Paulinho;Daniel Alves;Brasil;Venezuela;14;22;2;0;collective;foot;0;0;1;0;0;0;0
+63;4;0;69;Guerra;-;Venezuela;Brasil;4;23;-2;1;collective;foot;0;0;1;0;0;0;0
+64;4;0;83;Paulinho;-;Brasil;Venezuela;18;18;2;0;collective;foot;0;0;0;0;0;0;0
+65;4;0;87;Rondon;-;Venezuela;Brasil;7;22;-2;1;collective;head;0;0;1;0;0;0;0
