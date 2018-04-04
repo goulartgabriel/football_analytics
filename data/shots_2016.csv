@@ -982,10 +982,10 @@ index;week;goal;minute;shot_player;assistance_player;team;opponent;region_assist
 981;8;1;;Thiego;Arthur Maia;Chapecoense;Gremio;22;8;0;1;corner;head;0;0;1;0;1;0;1
 982;8;1;;Giuliano;Negueba;Gremio;Chapecoense;22;3;-1;0;collective;head;0;0;1;0;1;0;1
 983;8;0;;Arrascaeta;-;Cruzeiro;Flamengo;0;23;0;1;direct_fk;foot;0;0;0;0;0;0;0
-984;8;0;;Rever;Alan Patrick;Flamengo;Cruzeiro;22;7;0;-1;indirect_fk;head;0;0;1;0;0;0;1
-985;8;0;;Rever;Alan Patrick;Flamengo;Cruzeiro;22;6;0;-1;corner;head;0;0;1;0;0;0;0
-986;8;0;;Felipe Vizeu;Everton;Flamengo;Cruzeiro;23;12;0;-1;collective;foot;0;0;1;0;0;0;1
-987;8;0;;Felipe Vizeu;-;Flamengo;Cruzeiro;0;18;0;-1;individual;foot;0;0;0;0;1;1;0
+984;8;0;;Rever;Alan Patrick;Flamengo;Cruzeiro;22;7;0;0;indirect_fk;head;0;0;1;0;0;0;1
+985;8;0;;Rever;Alan Patrick;Flamengo;Cruzeiro;22;6;0;0;corner;head;0;0;1;0;0;0;0
+986;8;0;;Felipe Vizeu;Everton;Flamengo;Cruzeiro;23;12;0;0;collective;foot;0;0;1;0;0;0;1
+987;8;0;;Felipe Vizeu;-;Flamengo;Cruzeiro;0;18;0;0;individual;foot;0;0;0;0;1;1;0
 988;8;0;;Riascos;-;Cruzeiro;Flamengo;0;28;0;1;individual;foot;0;0;0;0;0;0;0
 989;8;0;;Bruno Rodrigo;Arrascaeta;Cruzeiro;Flamengo;21;4;0;1;corner;head;0;0;1;0;0;0;0
 990;8;1;;Rever;Alan Patrick;Flamengo;Cruzeiro;22;7;0;0;corner;head;0;0;1;0;0;0;1
